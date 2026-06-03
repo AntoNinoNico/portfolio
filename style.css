@@ -180,13 +180,15 @@ nav ul li a.active { opacity: 1; border-bottom: 2px solid var(--colore-primario)
 }
 
 /* Colori Card Esperienze */
-.card-hibet       { --color-glow: #00796b; }
-.card-archeome    { --color-glow: #800000; }
-.card-universome  { --color-glow: #ef6c00; }
-.card-rosanero    { --color-glow: #FFAACC; }
-.card-mindwork    { --color-glow: #388E3C; }
-.card-calciostyle { --color-glow: #d32f2f; }
-.card-altri       { --color-glow: #708090; }
+.card-hibet         { --color-glow: #00796b; }
+.card-stilejuventus { --color-glow: #000000; }
+.card-archeome      { --color-glow: #800000; }
+.card-universome    { --color-glow: #ef6c00; }
+.card-rosanero      { --color-glow: #FFAACC; }
+.card-farenotizia   { --color-glow: #d32f2f; }
+.card-mindwork      { --color-glow: #388E3C; }
+.card-calciostyle   { --color-glow: #d32f2f; }
+.card-altri         { --color-glow: #708090; }
 
 .esperienza-contenuto { flex: 1; }
 .esperienza-logo { flex-basis: 120px; flex-shrink: 0; display: flex; justify-content: center; }
