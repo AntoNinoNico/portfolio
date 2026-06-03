@@ -184,6 +184,7 @@ nav ul li a.active { opacity: 1; border-bottom: 2px solid var(--colore-primario)
 .card-archeome    { --color-glow: #800000; }
 .card-universome  { --color-glow: #ef6c00; }
 .card-rosanero    { --color-glow: #FFAACC; }
+.card-farenotizia { --color-glow: #d32f2f; }
 .card-mindwork    { --color-glow: #388E3C; }
 .card-calciostyle { --color-glow: #d32f2f; }
 .card-altri       { --color-glow: #708090; }
